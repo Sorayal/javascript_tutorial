@@ -1,4 +1,4 @@
-#Simple Animation with JQuery
+# Simple Animation with JQuery
 
 <p>The button starts to square and let it move around.</p>
 <p>While the square is moving, the button will be deactivated.</p>
